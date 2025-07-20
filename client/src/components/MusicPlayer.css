@@ -57,3 +57,18 @@ h2 {
     margin: 20px 0;
 
 }
+
+.navigation-controls button{
+    background-color: #3b5998;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 25px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight:boold;
+    margin: 0 10px;
+
+}
+
+
